@@ -3,16 +3,18 @@ import csv
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
 import time
+import os
 
-global isWriteHeader
+# Global variable for header writing control
 isWriteHeader = True
 
-# Modify this function to process tickers from the CSV
+# Function to get financial indicators for each company
 def get_indicators(comp_code):
+    global isWriteHeader
     try:
         ticker = yf.Ticker(f"{comp_code}.AX")  # Using .AX for ASX stocks
         income_stmt = ticker.financials
-        years = income_stmt.columns  # Get years in fin stm
+        years = income_stmt.columns  # Get years in financial statements
         balance_sheet = ticker.balance_sheet
 
         company_name = ticker.info.get("longName", "N/A")
@@ -20,9 +22,8 @@ def get_indicators(comp_code):
         industry = ticker.info.get("industry", "N/A")
 
         for year in years:
-
-            net_income = income_stmt.loc["Net Income", year]  # Net Income - worked
-            share_outstanding = ticker.info["sharesOutstanding"]  # Share Outstanding
+            net_income = income_stmt.loc["Net Income", year]
+            share_outstanding = ticker.info["sharesOutstanding"]
 
             basic_EPS = income_stmt.loc["Basic EPS", year]
 
@@ -52,24 +53,6 @@ def get_indicators(comp_code):
 
             DY = dividends_by_year[year.year] / year_end_prices[year.year]
 
-            print(f"\nYear: {year.year}")
-            print(f"Company Name: {company_name}")
-            print(f"Sector: {sector}")
-            print(f"Industry: {industry}")
-            print(f"Net Income: {net_income}")
-            print(f"Share Outstanding: {share_outstanding}")
-            print(f"EPS: {basic_EPS}")
-            print(f"BVPS: {bvps}")
-            print(f"ROA: {ROA}")
-            print(f"ROE: {ROE}")
-            print(f"DIV: {dividends_by_year[year.year]}")
-            print(f"P/E Ratio {pe_ratio}")
-            print(f"Closed price: {year_end_prices[year.year]}")
-            print(f"DAR: {DAR}")
-            print(f"MB: {MB}")
-            print(f"SIZE: {SIZE}")
-            print(f"DY: {DY}")
-
             fin_data = {
                 "Company code": comp_code,
                 "Company Name": company_name,
@@ -87,43 +70,48 @@ def get_indicators(comp_code):
                 "DY": f"{DY}",
                 "Market Cap": f"{SIZE}",
                 "Total Assets": f"{total_assets[year]}",
+                "Year end price": f"{year_end_prices[year.year]}"
             }
             write_to_csv(fin_data)
     except Exception as e:
         print(f"Indicator error: {e}")
 
 
+# Function to write financial data to CSV
 def write_to_csv(fin_data):
-    output_file = f"fin_data_{fin_data['Year']}.csv"
+    global isWriteHeader
+    output_file = f"asx_fin_data_{fin_data['Year']}.csv"
+    
+    # Check if the file already exists
+    file_exists = os.path.exists(output_file)
+
+    # Write to CSV with header check
     with open(output_file, mode="a", newline="") as file:
         writer = csv.DictWriter(file, fieldnames=fin_data.keys())
-        if isWriteHeader:
-            writer.writeheader()  # Write the header row (column names)
+        
+        # Write header only if the file doesn't exist yet
+        if not file_exists:
+            writer.writeheader()
+        
         writer.writerow(fin_data)
 
     print(f"Data for {fin_data['Year']} successfully written to {output_file}")
 
 
-isWriteHeader = True
-
 if __name__ == "__main__":
     # Load ASX company data from the CSV
-    company_list_file = "companies-list.csv"
+    company_list_file = "companies_list_part_4.csv"
     company_data = pd.read_csv(company_list_file)
 
     # Ensure 'Ticker' column exists
     if "Ticker" not in company_data.columns:
         raise ValueError("The input CSV must have a 'Ticker' column")
-    
-    
-    company_data = company_data.head(50)
 
+    # Limit to the first 2000 companies (optional, adjust as needed)
+    company_data = company_data.head(500)
 
-    # Extract ASX tickers and loop through them
-    for comp_code in company_data["Ticker"]:
-        get_indicators(comp_code)
-        isWriteHeader = False  # Don't write the header after the first entry
-
-    # Using ThreadPoolExecutor for concurrent processing (optional)
+    # Using ThreadPoolExecutor for concurrent processing
     with ThreadPoolExecutor(max_workers=5) as executor:
         executor.map(get_indicators, company_data["Ticker"])
+
+    print("All data processing complete.")

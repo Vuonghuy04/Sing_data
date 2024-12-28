@@ -1,0 +1,501 @@
+Ticker,Code,Company,Link,Market Cap,Last trade,Change,%Change,Sector
+NUC,ASX:NUC,Nuchev Limited (ASX:NUC),https://www.listcorp.com/asx/nuc/nuchev-limited,16829000,0.115,0,0,Consumer Staples
+POS,ASX:POS,Poseidon Nickel Limited (ASX:POS),https://www.listcorp.com/asx/pos/poseidon-nickel-limited,16815500,0.004,0,0,Materials
+MGT,ASX:MGT,Magnetite Mines Limited (ASX:MGT),https://www.listcorp.com/asx/mgt/magnetite-mines-limited,16725900,0.145,0,0,Materials
+KZR,ASX:KZR,Kalamazoo Resources Limited (ASX:KZR),https://www.listcorp.com/asx/kzr/kalamazoo-resources-limited,16704300,0.083,0,0,Materials
+SOC,ASX:SOC,SOCO Corporation Limited (ASX:SOC),https://www.listcorp.com/asx/soc/soco-corporation-limited,16672800,0.12,0,0,Information Technology
+ACU,ASX:ACU,Acumentis Group Limited (ASX:ACU),https://www.listcorp.com/asx/acu/acumentis-group-limited,16609100,0.075,0,0,Real Estate
+SHY,ASX:USHY,Global X USD High Yield Bond ETF (Currency Hedged) (ASX:USHY),https://www.listcorp.com/asx/ushy/global-x-usd-high-yield-bond-etf-currency-hedged,16605700,10.57,0,0,Unclassified
+SLS,ASX:SLS,Solstice Minerals Limited (ASX:SLS),https://www.listcorp.com/asx/sls/solstice-minerals-limited,16555600,0.165,0,0,Materials
+HMD,ASX:HMD,HeraMED Limited (ASX:HMD),https://www.listcorp.com/asx/hmd/heramed-limited,16538800,0.021,0,0,Health Care
+CBL,ASX:CBL,Control Bionics Limited (ASX:CBL),https://www.listcorp.com/asx/cbl/control-bionics-limited,16338900,0.066,0,0,Health Care
+MGL,ASX:MGL,Magontec Limited (ASX:MGL),https://www.listcorp.com/asx/mgl/magontec-limited,16327000,0.19,0,0,Materials
+BAS,ASX:BAS,Bass Oil Limited (ASX:BAS),https://www.listcorp.com/asx/bas/bass-oil-limited,16266600,0.056,0,0,Energy
+GUE,ASX:GUE,Global Uranium And Enrichment Ltd (ASX:GUE),https://www.listcorp.com/asx/gue/global-uranium-and-enrichment-ltd,16206900,0.061,0,0,Materials
+C29,ASX:C29,C29 Metals Limited (ASX:C29),https://www.listcorp.com/asx/c29/c29-metals-limited,16199500,0.093,0,0,Materials
+REZ,ASX:REZ,Resources & Energy Group Limited (ASX:REZ),https://www.listcorp.com/asx/rez/resources-and-energy-group-limited,16119300,0.024,0,0,Materials
+OEC,ASX:OEC,Orbital Corporation Limited (ASX:OEC),https://www.listcorp.com/asx/oec/orbital-corporation,16066300,0.11,0,0,Industrials
+MAG,ASX:MAG,Magmatic Resources Limited (ASX:MAG),https://www.listcorp.com/asx/mag/magmatic-resources-limited,16056500,0.0385,0,0,Materials
+NFM,ASX:NFM,New Frontier Minerals Limited (ASX:NFM),https://www.listcorp.com/asx/nfm/new-frontier-minerals-limited,15991100,0.011,0,0,Materials
+UNT,ASX:UNT,Unith Ltd (ASX:UNT),https://www.listcorp.com/asx/unt/unith-ltd,15974200,0.013,0,0,Communication Services
+IME,ASX:IME,ImExHS Limited (ASX:IME),https://www.listcorp.com/asx/ime/imexhs-limited,15967000,0.35,0,0,Health Care
+CC9,ASX:CC9,Chariot Corporation Ltd (ASX:CC9),https://www.listcorp.com/asx/cc9/chariot-corporation-ltd,15922300,0.135,0,0,Materials
+VN8,ASX:VN8,Vonex Limited (ASX:VN8),https://www.listcorp.com/asx/vn8/vonex-limited,15920500,0.044,0,0,Communication Services
+OLH,ASX:OLH,Oldfields Holdings Limited (ASX:OLH),https://www.listcorp.com/asx/olh/oldfields-holdings-limited,15904400,0.075,0,0,Industrials
+ETR,ASX:ETR,Entyr Limited (ASX:ETR),https://www.listcorp.com/asx/etr/entyr-limited,15864800,0.007,0,0,Industrials
+ACP,ASX:ACP,Audalia Resources Limited (ASX:ACP),https://www.listcorp.com/asx/acp/audalia-resources,15842700,0.02,0,0,Materials
+ELT,ASX:ELT,Elementos Limited (ASX:ELT),https://www.listcorp.com/asx/elt/elementos-limited,15820800,0.067,0,0,Materials
+ADY,ASX:ADY,Admiralty Resources NL (ASX:ADY),https://www.listcorp.com/asx/ady/admiralty-resources,15776900,0.006,0,0,Materials
+NOR,ASX:NOR,Norwood Systems Limited (ASX:NOR),https://www.listcorp.com/asx/nor/norwood-systems-limited,15724100,0.033,0,0,Information Technology
+TRP,ASX:TRP,Tissue Repair Ltd (ASX:TRP),https://www.listcorp.com/asx/trp/tissue-repair-ltd,15720900,0.26,0,0,Health Care
+PET,ASX:PET,Phoslock Environmental Technologies Limited (ASX:PET),https://www.listcorp.com/asx/pet/phoslock-environmental-technologies-limited,15609800,0.025,0,0,Industrials
+GRV,ASX:GRV,Greenvale Energy Limited (ASX:GRV),https://www.listcorp.com/asx/grv/greenvale-energy-limited,15579900,0.031,0,0,Energy
+JAV,ASX:JAV,Javelin Minerals Limited (ASX:JAV),https://www.listcorp.com/asx/jav/javelin-minerals-limited,15568200,0.003,0,0,Materials
+GLE,ASX:GLE,GLG Corp (ASX:GLE),https://www.listcorp.com/asx/gle/glg-corp,15561000,0.21,0,0,Consumer Discretionary
+MHI,ASX:MHI,Merchant House International Limited (ASX:MHI),https://www.listcorp.com/asx/mhi/merchant-house-international-limited,15554000,0.165,0,0,Consumer Discretionary
+S66,ASX:S66,Star Combo Pharma (ASX:S66),https://www.listcorp.com/asx/s66/star-combo-pharma,15534500,0.115,0,0,Consumer Staples
+NMR,ASX:NMR,Native Mineral Resources Holdings Limited (ASX:NMR),https://www.listcorp.com/asx/nmr/native-mineral-resources-holdings-limited,15518900,0.032,0,0,Materials
+AZI,ASX:AZI,Altamin Limited (ASX:AZI),https://www.listcorp.com/asx/azi/altamin-limited,15511600,0.027,0,0,Materials
+CCO,ASX:CCO,The Calmer Co International Limited (ASX:CCO),https://www.listcorp.com/asx/cco/the-calmer-co-international-limited,15465700,0.007,0,0,Consumer Staples
+BSX,ASX:BSX,Blackstone Minerals Limited (ASX:BSX),https://www.listcorp.com/asx/bsx/blackstone-minerals-limited,15463800,0.028,0,0,Materials
+NGX,ASX:NGX,NGX Limited (ASX:NGX),https://www.listcorp.com/asx/ngx/ngx-limited,15404000,0.17,0,0,Materials
+LAM,ASX:LAM,Laramide Resources Ltd (ASX:LAM),https://www.listcorp.com/asx/lam/laramide-resources-ltd,15392300,0.75,0,0,Energy
+AUZ,ASX:AUZ,Australian Mines Limited (ASX:AUZ),https://www.listcorp.com/asx/auz/australian-mines-limited,15383600,0.011,0,0,Materials
+BIT,ASX:BIT,Biotron Limited (ASX:BIT),https://www.listcorp.com/asx/bit/biotron,15340500,0.017,0,0,Health Care
+SPN,ASX:SPN,Sparc Technologies Limited (ASX:SPN),https://www.listcorp.com/asx/spn/sparc-technologies-limited,15339700,0.16,0,0,Materials
+RXH,ASX:RXH,Rewardle Holdings Limited (ASX:RXH),https://www.listcorp.com/asx/rxh/rewardle-holdings-limited,15338700,0.029,0,0,Communication Services
+MMG,ASX:EMMG,BetaShares Martin Currie Emerging Markets Fund (managed fund) (ASX:EMMG),https://www.listcorp.com/asx/emmg/betashares-martin-currie-emerging-markets-fund-managed-fund,15334900,6.42,0,0,Unclassified
+AGD,ASX:AGD,Austral Gold Limited (ASX:AGD),https://www.listcorp.com/asx/agd/austral-gold-limited,15307800,0.025,0,0,Materials
+CLE,ASX:CLE,Cyclone Metals Limited (ASX:CLE),https://www.listcorp.com/asx/cle/cyclone-metals-limited,15287300,0.022,0,0,Materials
+RFT,ASX:RFT,Rectifier Technologies Ltd (ASX:RFT),https://www.listcorp.com/asx/rft/rectifier-technologies-ltd,15201800,0.011,0,0,Industrials
+QEG,ASX:MQEG,Macquarie Core Global Equity Fund (ASX:MQEG),https://www.listcorp.com/asx/mqeg/macquarie-core-global-equity-fund,15164400,11.66,0,0,Unclassified
+BB1,ASX:BB1,BlinkLab Limited (ASX:BB1),https://www.listcorp.com/asx/bb1/blinklab-limited,15127800,0.265,0,0,Health Care
+JLL,ASX:JLL,Jindalee Lithium Limited (ASX:JLL),https://www.listcorp.com/asx/jll/jindalee-lithium-limited,15086300,0.205,0,0,Materials
+MDC,ASX:MDC,Medlab Clinical Limited (ASX:MDC),https://www.listcorp.com/asx/mdc/medlab-clinical-limited,15071100,6.6,0,0,Health Care
+IXU,ASX:IXU,IXUP Limited (ASX:IXU),https://www.listcorp.com/asx/ixu/ixup-limited,15038900,0.009,0,0,Information Technology
+CCE,ASX:CCE,Carnegie Clean Energy Limited (ASX:CCE),https://www.listcorp.com/asx/cce/carnegie-clean-energy-limited,15014300,0.041,0,0,Utilities
+AKO,ASX:AKO,Akora Resources Limited (ASX:AKO),https://www.listcorp.com/asx/ako/akora-resources-limited,15012300,0.12,0,0,Materials
+TRM,ASX:TRM,Truscott Mining Corporation (ASX:TRM),https://www.listcorp.com/asx/trm/truscott-mining,14933000,0.078,0,0,Materials
+AMO,ASX:AMO,Ambertech Limited (ASX:AMO),https://www.listcorp.com/asx/amo/ambertech,14787700,0.155,0,0,Information Technology
+WMG,ASX:WMG,Western Mines Group Ltd (ASX:WMG),https://www.listcorp.com/asx/wmg/western-mines-group-ltd,14776300,0.17,0,0,Materials
+DXN,ASX:DXN,DXN Limited (ASX:DXN),https://www.listcorp.com/asx/dxn/dxn-limited,14716100,0.063,0,0,Information Technology
+TEG,ASX:TEG,Triangle Energy (Global) Limited (ASX:TEG),https://www.listcorp.com/asx/teg/triangle-energy-global-limited,14624600,0.007,0,0,Energy
+NNL,ASX:NNL,Nordic Resources Ltd (ASX:NNL),https://www.listcorp.com/asx/nnl/nordic-resources-ltd,14595600,0.1,0,0,Materials
+CRR,ASX:CRR,Critical Resources Limited (ASX:CRR),https://www.listcorp.com/asx/crr/critical-resources-limited,14591800,0.006,0,0,Materials
+AMS,ASX:AMS,Atomos Limited (ASX:AMS),https://www.listcorp.com/asx/ams/atomos-limited,14580200,0.012,0,0,Consumer Discretionary
+MVW,ASX:GMVW,VanEck Geared Australian Equal Weight Fund (Hedge Fund) (ASX:GMVW),https://www.listcorp.com/asx/gmvw/vaneck-geared-australian-equal-weight-fund-hedge-fund,14545900,41.51,0,0,Unclassified
+G11,ASX:G11,G11 Resources Limited (ASX:G11),https://www.listcorp.com/asx/g11/g11-resources-limited,14499300,0.015,0,0,Materials
+PTL,ASX:PTL,Prestal Holdings Limited (ASX:PTL),https://www.listcorp.com/asx/ptl/prestal-holdings-limited,14489100,0.085,0,0,Consumer Staples
+EQX,ASX:EQX,Equatorial Resources Limited (ASX:EQX),https://www.listcorp.com/asx/eqx/equatorial-resources-limited,14459000,0.11,0,0,Materials
+RNT,ASX:RNT,Rent.com.au Limited (ASX:RNT),https://www.listcorp.com/asx/rnt/rent.com.au-limited,14405100,0.019,0,0,Communication Services
+GTE,ASX:GTE,Great Western Exploration Limited (ASX:GTE),https://www.listcorp.com/asx/gte/great-western-exploration-limited,14387300,0.026,0,0,Materials
+CAV,ASX:CAV,Carnavale Resources Ltd (ASX:CAV),https://www.listcorp.com/asx/cav/carnavale-resources,14315800,0.0035,0,0,Materials
+5GG,ASX:5GG,Pentanet Limited (ASX:5GG),https://www.listcorp.com/asx/5gg/pentanet-limited,14294700,0.032,0,0,Communication Services
+FRB,ASX:FRB,Firebird Metals Limited (ASX:FRB),https://www.listcorp.com/asx/frb/firebird-metals-limited,14236100,0.1,0,0,Materials
+HIQ,ASX:HIQ,HitIQ Limited (ASX:HIQ),https://www.listcorp.com/asx/hiq/hitiq-limited,14153800,0.04,0,0,Health Care
+Z2U,ASX:Z2U,Zoom2u Technologies Limited (ASX:Z2U),https://www.listcorp.com/asx/z2u/zoom2u-technologies-limited,14146400,0.073,0,0,Information Technology
+LDR,ASX:LDR,Lode Resources Ltd (ASX:LDR),https://www.listcorp.com/asx/ldr/lode-resources,14097600,0.12,0,0,Materials
+HAW,ASX:HAW,Hawthorn Resources Limited (ASX:HAW),https://www.listcorp.com/asx/haw/hawthorn-resources,14070700,0.042,0,0,Materials
+BTE,ASX:BTE,Botala Energy Ltd (ASX:BTE),https://www.listcorp.com/asx/bte/botala-energy-ltd,14059500,0.058,0,0,Energy
+KSM,ASX:KSM,K2 Australian Small Cap Fund (Hedge Fund) (ASX:KSM),https://www.listcorp.com/asx/ksm/k2-australian-small-cap-fund-hedge-fund,13972100,2.39,0,0,Unclassified
+NOV,ASX:NOV,Novatti Group Limited (ASX:NOV),https://www.listcorp.com/asx/nov/novatti-group-limited,13965000,0.029,0,0,Information Technology
+INF,ASX:INF,Infinity Lithium Corporation Limited (ASX:INF),https://www.listcorp.com/asx/inf/infinity-lithium-corporation-limited,13877800,0.03,0,0,Materials
+MKG,ASX:MKG,Mako Gold Limited (ASX:MKG),https://www.listcorp.com/asx/mkg/mako-gold-limited,13812700,0.014,0,0,Materials
+SUM,ASX:SUM,Summit Minerals Limited (ASX:SUM),https://www.listcorp.com/asx/sum/summit-minerals-limited,13812500,0.16,0,0,Materials
+MAN,ASX:MAN,Mandrake Resources Limited (ASX:MAN),https://www.listcorp.com/asx/man/mandrake-resources-limited,13799700,0.022,0,0,Materials
+AGH,ASX:AGH,Althea Group Holdings Limited (ASX:AGH),https://www.listcorp.com/asx/agh/althea-group-holdings-limited,13781300,0.034,0,0,Health Care
+AQN,ASX:AQN,Aquirian Limited (ASX:AQN),https://www.listcorp.com/asx/aqn/aquirian-limited,13728200,0.17,0,0,Industrials
+MCO,ASX:MCO,Myeco Group Ltd (ASX:MCO),https://www.listcorp.com/asx/mco/myeco-group-ltd,13722000,0.023,0,0,Materials
+FUL,ASX:FUL,Fulcrum Lithium Ltd (ASX:FUL),https://www.listcorp.com/asx/ful/fulcrum-lithium-ltd,13590000,0.18,0,0,Materials
+SNG,ASX:SNG,Siren Gold Limited (ASX:SNG),https://www.listcorp.com/asx/sng/siren-gold-limited,13576200,0.062,0,0,Materials
+EDU,ASX:EDU,EDU Holdings Limited (ASX:EDU),https://www.listcorp.com/asx/edu/edu-holdings-limited,13549800,0.09,0,0,Consumer Discretionary
+GSN,ASX:GSN,Great Southern Mining Limited (ASX:GSN),https://www.listcorp.com/asx/gsn/great-southern-mining-limited,13545300,0.016,0,0,Materials
+EGY,ASX:EGY,Energy Technologies (ASX:EGY),https://www.listcorp.com/asx/egy/energy-technologies,13531600,0.031,0,0,Industrials
+1AI,ASX:1AI,Algorae Pharmaceuticals Limited (ASX:1AI),https://www.listcorp.com/asx/1ai/algorae-pharmaceuticals-limited,13499200,0.008,0,0,Health Care
+DKM,ASX:DKM,Duketon Mining Limited (ASX:DKM),https://www.listcorp.com/asx/dkm/duketon-mining-limited,13465300,0.11,0,0,Materials
+RCL,ASX:RCL,ReadCloud Limited (ASX:RCL),https://www.listcorp.com/asx/rcl/readcloud-limited,13434600,0.091,0,0,Information Technology
+BPH,ASX:BPH,BPH Energy Limited (ASX:BPH),https://www.listcorp.com/asx/bph/bph-energy-limited,13400600,0.011,0,0,Financials
+SHO,ASX:SHO,Sportshero Limited (ASX:SHO),https://www.listcorp.com/asx/sho/sportshero-limited,13356700,0.02,0,0,Communication Services
+EMP,ASX:EMP,Emperor Energy Limited (ASX:EMP),https://www.listcorp.com/asx/emp/emperor-energy-limited,13340000,0.023,0,0,Energy
+TGH,ASX:TGH,Terragen Holdings Limited (ASX:TGH),https://www.listcorp.com/asx/tgh/terragen-holdings-limited,13286900,0.036,0,0,Materials
+AFL,ASX:AFL,AF Legal Group Ltd (ASX:AFL),https://www.listcorp.com/asx/afl/af-legal-group,13238400,0.145,0,0,Industrials
+AMD,ASX:AMD,Arrow Minerals Limited (ASX:AMD),https://www.listcorp.com/asx/amd/arrow-minerals-limited,13223600,0.001,0,0,Materials
+JZP,ASX:HJZP,Hejaz Property Fund (Managed Fund) (ASX:HJZP),https://www.listcorp.com/asx/hjzp/hejaz-property-fund-managed-fund,13165500,0.865,0,0,Unclassified
+PGM,ASX:PGM,Platina Resources Limited (ASX:PGM),https://www.listcorp.com/asx/pgm/platina-resources-limited,13086800,0.021,0,0,Materials
+PV1,ASX:PV1,Provaris Energy Ltd (ASX:PV1),https://www.listcorp.com/asx/pv1/provaris-energy-ltd,13050800,0.019,0,0,Energy
+SPQ,ASX:SPQ,Superior Resources Limited (ASX:SPQ),https://www.listcorp.com/asx/spq/superior-resources-limited,13019200,0.006,0,0,Materials
+LPM,ASX:LPM,Lithium Plus Minerals Ltd (ASX:LPM),https://www.listcorp.com/asx/lpm/lithium-plus-minerals-ltd,13018300,0.098,0,0,Materials
+TSI,ASX:TSI,Top Shelf International Holdings Ltd (ASX:TSI),https://www.listcorp.com/asx/tsi/top-shelf-international-holdings-ltd,13004300,0.04,0,0,Consumer Staples
+TKM,ASX:TKM,Trek Metals Limited (ASX:TKM),https://www.listcorp.com/asx/tkm/trek-metals-limited,13003100,0.025,0,0,Materials
+FZR,ASX:FZR,Fitzroy River Corporation Ltd (ASX:FZR),https://www.listcorp.com/asx/fzr/fitzroy-river-corporation-ltd,12954500,0.12,0,0,Energy
+PIL,ASX:PIL,Peppermint Innovation Limited (ASX:PIL),https://www.listcorp.com/asx/pil/peppermint-innovation-limited,12953200,0.006,0,0,Information Technology
+FND,ASX:DFND,VanEck Global Defence ETF (ASX:DFND),https://www.listcorp.com/asx/dfnd/vaneck-global-defence-etf,12947000,23.54,0,0,Unclassified
+CND,ASX:CND,Condor Energy Limited (ASX:CND),https://www.listcorp.com/asx/cnd/condor-energy-limited,12899300,0.022,0,0,Energy
+ALR,ASX:ALR,Altair Minerals Limited (ASX:ALR),https://www.listcorp.com/asx/alr/altair-minerals-limited,12889700,0.003,0,0,Materials
+RMR,ASX:ARMR,Betashares Global Defence ETF (ASX:ARMR),https://www.listcorp.com/asx/armr/betashares-global-defence-etf,12825000,17.1,0,0,Unclassified
+ION,ASX:ION,Iondrive Limited (ASX:ION),https://www.listcorp.com/asx/ion/iondrive-limited,12753100,0.018,0,0,Materials
+VMC,ASX:VMC,Venus Metals Corporation Limited (ASX:VMC),https://www.listcorp.com/asx/vmc/venus-metals,12748400,0.065,0,0,Materials
+MNC,ASX:MNC,Merino & Co Limited (ASX:MNC),https://www.listcorp.com/asx/mnc/merino-and-co-limited,12738400,0.25,0,0,Consumer Discretionary
+TRU,ASX:TRU,Truscreen Group Limited (ASX:TRU),https://www.listcorp.com/asx/tru/truscreen-group-limited,12709600,0.023,0,0,Health Care
+AVE,ASX:AVE,Avecho Biotechnology Limited (ASX:AVE),https://www.listcorp.com/asx/ave/avecho-biotechnology-limited,12677200,0.004,0,0,Health Care
+EQE,ASX:EQE,Equus Mining Limited (ASX:EQE),https://www.listcorp.com/asx/eqe/equus-mining-limited,12653700,0.05,0,0,Materials
+FBM,ASX:FBM,Future Battery Minerals Limited (ASX:FBM),https://www.listcorp.com/asx/fbm/future-battery-minerals-limited,12641800,0.019,0,0,Materials
+SGA,ASX:SGA,Sarytogan Graphite Limited (ASX:SGA),https://www.listcorp.com/asx/sga/sarytogan-graphite-limited,12634300,0.076,0,0,Materials
+BPP,ASX:BPP,Babylon Pump & Power Limited (ASX:BPP),https://www.listcorp.com/asx/bpp/babylon-pump-and-power-limited,12497700,0.005,0,0,Industrials
+TOR,ASX:TOR,Torque Metals Limited (ASX:TOR),https://www.listcorp.com/asx/tor/torque-metals-limited,12483200,0.05,0,0,Materials
+VRC,ASX:VRC,Volt Resources Limited (ASX:VRC),https://www.listcorp.com/asx/vrc/volt-resources-limited,12476000,0.004,0,0,Materials
+EAX,ASX:EAX,Energy Action Limited (ASX:EAX),https://www.listcorp.com/asx/eax/energy-action,12474100,0.32,0,0,Industrials
+ZGL,ASX:ZGL,Zicom Group Limited (ASX:ZGL),https://www.listcorp.com/asx/zgl/zicom-group-limited,12444500,0.058,0,0,Industrials
+GUL,ASX:GUL,Gullewa Limited (ASX:GUL),https://www.listcorp.com/asx/gul/gullewa,12391300,0.059,0,0,Materials
+ASP,ASX:ASP,Aspermont Limited (ASX:ASP),https://www.listcorp.com/asx/asp/aspermont-limited,12350100,0.005,0,0,Communication Services
+CLU,ASX:CLU,Cluey Ltd (ASX:CLU),https://www.listcorp.com/asx/clu/cluey-ltd,12348800,0.035,0,0,Consumer Discretionary
+CAG,ASX:CAG,Cape Range Limited (ASX:CAG),https://www.listcorp.com/asx/cag/cape-range-limited,12338100,0.13,0,0,Information Technology
+LML,ASX:LML,Lincoln Minerals Limited (ASX:LML),https://www.listcorp.com/asx/lml/lincoln-minerals-limited,12337600,0.006,0,0,Materials
+FHS,ASX:FHS,Freehill Mining Limited (ASX:FHS),https://www.listcorp.com/asx/fhs/freehill-mining-limited,12314100,0.005,0,0,Materials
+AU1,ASX:AU1,The Agency Group Australia (ASX:AU1),https://www.listcorp.com/asx/au1/the-agency-group-australia,12308100,0.028,0,0,Real Estate
+GOV,ASX:1GOV,VanEck 1-5 Year Australian Government Bond ETF (ASX:1GOV),https://www.listcorp.com/asx/1gov/vaneck-1-5-year-australian-government-bond-etf,12271500,51.13,0,0,Unclassified
+NIM,ASX:NIM,Nimy Resources Limited (ASX:NIM),https://www.listcorp.com/asx/nim/nimy-resources-limited,12244300,0.07,0,0,Materials
+BM8,ASX:BM8,Battery Age Minerals Limited (ASX:BM8),https://www.listcorp.com/asx/bm8/battery-age-minerals-limited,12212900,0.12,0,0,Materials
+ASE,ASX:ASE,Astute Metals NL (ASX:ASE),https://www.listcorp.com/asx/ase/astute-metals-nl,12190900,0.023,0,0,Materials
+BMH,ASX:BMH,Baumart Holdings Limited (ASX:BMH),https://www.listcorp.com/asx/bmh/baumart-holdings-limited,12158600,0.084,0,0,Industrials
+AT1,ASX:AT1,Atomo Diagnostics Limited (ASX:AT1),https://www.listcorp.com/asx/at1/atomo-diagnostics-limited,12144800,0.019,0,0,Health Care
+KOB,ASX:KOB,Koba Resources Limited (ASX:KOB),https://www.listcorp.com/asx/kob/koba-resources-limited,12050700,0.076,0,0,Materials
+IND,ASX:IND,Industrial Minerals Ltd (ASX:IND),https://www.listcorp.com/asx/ind/industrial-minerals-ltd,12048400,0.15,0,0,Materials
+NDQ,ASX:JNDQ,Betashares Nasdaq Next Gen 100 ETF (ASX:JNDQ),https://www.listcorp.com/asx/jndq/betashares-nasdaq-next-gen-100-etf,12009800,17.79,0,0,Unclassified
+CTO,ASX:CTO,Citigold Corporation Limited (ASX:CTO),https://www.listcorp.com/asx/cto/citigold-corporation-limited,12000000,0.004,0,0,Materials
+VKA,ASX:VKA,Viking Mines Limited (ASX:VKA),https://www.listcorp.com/asx/vka/viking-mines-limited,11953300,0.009,0,0,Materials
+FDR,ASX:FDR,Finder Energy Holdings Limited (ASX:FDR),https://www.listcorp.com/asx/fdr/finder-energy-holdings-limited,11940100,0.042,0,0,Energy
+PAM,ASX:PAM,Pan Asia Metals Limited (ASX:PAM),https://www.listcorp.com/asx/pam/pan-asia-metals-limited,11937100,0.059,0,0,Materials
+AHK,ASX:AHK,Ark Mines Ltd (ASX:AHK),https://www.listcorp.com/asx/ahk/ark-mines,11921000,0.215,0,0,Materials
+ACR,ASX:ACR,Acrux Limited (ASX:ACR),https://www.listcorp.com/asx/acr/acrux,11919400,0.041,0,0,Health Care
+TM1,ASX:TM1,Terra Metals Limited (ASX:TM1),https://www.listcorp.com/asx/tm1/terra-metals-limited,11916600,0.03,0,0,Materials
+MPP,ASX:MPP,Metro Performance Glass (ASX:MPP),https://www.listcorp.com/asx/mpp/metro-performance-glass,11864200,0.064,0,0,Industrials
+ZAG,ASX:ZAG,Zuleika Gold Limited (ASX:ZAG),https://www.listcorp.com/asx/zag/zuleika-gold-limited,11854100,0.016,0,0,Materials
+BAL,ASX:IBAL,iShares Balanced ESG ETF (ASX:IBAL),https://www.listcorp.com/asx/ibal/ishares-balanced-esg-etf,11852100,29.62,0,0,Unclassified
+RIV,ASX:DRIV,BetaShares Electric Vehicles and Future Mobility ETF (ASX:DRIV),https://www.listcorp.com/asx/driv/betashares-electric-vehicles-and-future-mobility-etf,11835200,8.59,0,0,Unclassified
+VML,ASX:VML,Vital Metals Limited (ASX:VML),https://www.listcorp.com/asx/vml/vital-metals-limited,11790100,0.002,0,0,Materials
+WSI,ASX:WSI,Weststar Industrial Limited (ASX:WSI),https://www.listcorp.com/asx/wsi/weststar-industrial-limited,11776500,0.1,0,0,Materials
+BNR,ASX:BNR,Bulletin Resources (ASX:BNR),https://www.listcorp.com/asx/bnr/bulletin-resources,11744500,0.04,0,0,Materials
+VFX,ASX:VFX,Visionflex Group Limited (ASX:VFX),https://www.listcorp.com/asx/vfx/visionflex-group-limited,11743600,0.0035,0,0,Health Care
+GMN,ASX:GMN,Gold Mountain Limited (ASX:GMN),https://www.listcorp.com/asx/gmn/gold-mountain-limited,11722400,0.003,0,0,Materials
+HMG,ASX:HMG,Hamelin Gold Limited (ASX:HMG),https://www.listcorp.com/asx/hmg/hamelin-gold-limited,11699400,0.074,0,0,Materials
+ASO,ASX:ASO,Aston Minerals Limited (ASX:ASO),https://www.listcorp.com/asx/aso/aston-minerals-limited,11655600,0.009,0,0,Materials
+ORD,ASX:ORD,Ordell Minerals Limited (ASX:ORD),https://www.listcorp.com/asx/ord/ordell-minerals-limited,11642400,0.325,0,0,Unclassified
+NET,ASX:NET,NetLinkz Limited (ASX:NET),https://www.listcorp.com/asx/net/netlinkz-limited,11635300,0.003,0,0,Information Technology
+ID8,ASX:ID8,Identitii Limited (ASX:ID8),https://www.listcorp.com/asx/id8/identitii-limited,11613200,0.015,0,0,Information Technology
+AQD,ASX:AQD,AusQuest Limited (ASX:AQD),https://www.listcorp.com/asx/aqd/ausquest,11604300,0.011,0,0,Materials
+ATS,ASX:ATS,Australis Oil & Gas Ltd (ASX:ATS),https://www.listcorp.com/asx/ats/australis-oil-and-gas-ltd,11601100,0.009,0,0,Energy
+X2M,ASX:X2M,X2M Connect Limited (ASX:X2M),https://www.listcorp.com/asx/x2m/x2m-connect-limited,11573100,0.032,0,0,Information Technology
+MIN,ASX:VMIN,Vanguard Global Minimum Volatility Active ETF (Managed Fund) (ASX:VMIN),https://www.listcorp.com/asx/vmin/vanguard-global-minimum-volatility-active-etf-managed-fund,11565300,63.23,0,0,Unclassified
+ATU,ASX:ATU,Atrum Coal Limited (ASX:ATU),https://www.listcorp.com/asx/atu/atrum-coal-limited,11507600,0.00434,0,0,Materials
+NC1,ASX:NC1,NiCo Resources Limited (ASX:NC1),https://www.listcorp.com/asx/nc1/nico-resources-limited,11492300,0.11,0,0,Materials
+CF1,ASX:CF1,Complii Fintech Solutions Ltd (ASX:CF1),https://www.listcorp.com/asx/cf1/complii-fintech-solutions-ltd,11461200,0.02,0,0,Information Technology
+N1H,ASX:N1H,N1 Holdings Limited (ASX:N1H),https://www.listcorp.com/asx/n1h/n1-holdings-limited,11447200,0.13,0,0,Financials
+GCM,ASX:GCM,Green Critical Minerals Limited (ASX:GCM),https://www.listcorp.com/asx/gcm/green-critical-minerals-limited,11445300,0.006,0,0,Materials
+NSX,ASX:NSX,NSX Limited (ASX:NSX),https://www.listcorp.com/asx/nsx/nsx-limited,11444500,0.025,0,0,Financials
+SVY,ASX:SVY,Stavely Minerals Limited (ASX:SVY),https://www.listcorp.com/asx/svy/stavely-minerals-limited,11424900,0.021,0,0,Materials
+HLX,ASX:HLX,Helix Resources Limited (ASX:HLX),https://www.listcorp.com/asx/hlx/helix-resources-limited,11424700,0.0035,0,0,Materials
+ST1,ASX:ST1,Spirit Technology Solutions Ltd (ASX:ST1),https://www.listcorp.com/asx/st1/spirit-technology-solutions,11416700,0.061,0,0,Communication Services
+EPM,ASX:EPM,Eclipse Metals Ltd (ASX:EPM),https://www.listcorp.com/asx/epm/eclipse-metals-ltd,11389300,0.005,0,0,Energy
+BMG,ASX:BMG,BMG Resources Limited (ASX:BMG),https://www.listcorp.com/asx/bmg/bmg-resources,11367000,0.015,0,0,Materials
+1AD,ASX:1AD,AdAlta Limited (ASX:1AD),https://www.listcorp.com/asx/1ad/adalta-limited,11366200,0.018,0,0,Health Care
+EOF,ASX:EOF,Ecofibre Limited (ASX:EOF),https://www.listcorp.com/asx/eof/ecofibre-limited,11366200,0.03,0,0,Health Care
+KNB,ASX:KNB,Koonenberry Gold Limited (ASX:KNB),https://www.listcorp.com/asx/knb/koonenberry-gold-limited,11365700,0.013,0,0,Materials
+CR1,ASX:CR1,Constellation Resources Limited (ASX:CR1),https://www.listcorp.com/asx/cr1/constellation-resources-limited,11347100,0.175,0,0,Materials
+TNY,ASX:TNY,Tinybeans Group Limited (ASX:TNY),https://www.listcorp.com/asx/tny/tinybeans-group-limited,11185200,0.076,0,0,Communication Services
+LYN,ASX:LYN,Lycaon Resources Limited (ASX:LYN),https://www.listcorp.com/asx/lyn/lycaon-resources-limited,11126800,0.21,0,0,Materials
+RGT,ASX:RGT,Argent Biopharma Limited (ASX:RGT),https://www.listcorp.com/asx/rgt/argent-biopharma-limited,11125800,0.205,0,0,Health Care
+OYL,ASX:ROYL,BetaShares Global Royalties ETF (ASX:ROYL),https://www.listcorp.com/asx/royl/betashares-global-royalties-etf,11098400,10.89,0,0,Unclassified
+RKT,ASX:RKT,RocketDNA Limited (ASX:RKT),https://www.listcorp.com/asx/rkt/rocketdna-limited,11022100,0.013,0,0,Information Technology
+RIL,ASX:RIL,Redivium Limited (ASX:RIL),https://www.listcorp.com/asx/ril/redivium-limited,10987400,0.0025,0,0,Materials
+FRE,ASX:FRE,Firebrick Pharma Limited (ASX:FRE),https://www.listcorp.com/asx/fre/firebrick-pharma-limited,10925600,0.052,0,0,Health Care
+GRO,ASX:IGRO,iShares High Growth ESG ETF (ASX:IGRO),https://www.listcorp.com/asx/igro/ishares-high-growth-esg-etf,10915200,34.06,0,0,Unclassified
+EPX,ASX:EPX,EP&T Global Limited (ASX:EPX),https://www.listcorp.com/asx/epx/ep-and-t-global-limited,10911700,0.018,0,0,Information Technology
+KNG,ASX:KNG,Kingsland Minerals Ltd (ASX:KNG),https://www.listcorp.com/asx/kng/kingsland-minerals-ltd,10884100,0.15,0,0,Materials
+MXO,ASX:MXO,Motio Limited (ASX:MXO),https://www.listcorp.com/asx/mxo/motio-limited,10861600,0.039,0,0,Communication Services
+PNN,ASX:PNN,Power Minerals Limited (ASX:PNN),https://www.listcorp.com/asx/pnn/power-minerals-limited,10816200,0.095,0,0,Materials
+BNL,ASX:BNL,Blue Star Helium Limited (ASX:BNL),https://www.listcorp.com/asx/bnl/blue-star-helium-limited,10779500,0.004,0,0,Energy
+NH3,ASX:NH3,NH3 Clean Energy Limited (ASX:NH3),https://www.listcorp.com/asx/nh3/nh3-clean-energy-limited,10771200,0.021,0,0,Materials
+AKA,ASX:AKA,Aureka Limited (ASX:AKA),https://www.listcorp.com/asx/aka/aureka-limited,10755700,0.105,0,0,Materials
+LCL,ASX:LCL,LCL Resources Limited (ASX:LCL),https://www.listcorp.com/asx/lcl/lcl-resources-limited,10753300,0.009,0,0,Materials
+RLF,ASX:RLF,RLF AgTech Ltd (ASX:RLF),https://www.listcorp.com/asx/rlf/rlf-agtech-ltd,10744500,0.046,0,0,Materials
+RAU,ASX:RAU,Resouro Strategic Metals Inc. (ASX:RAU),https://www.listcorp.com/asx/rau/resouro-strategic-metals-inc,10664500,0.245,0,0,Materials
+KTG,ASX:KTG,K-TIG Limited (ASX:KTG),https://www.listcorp.com/asx/ktg/k-tig-limited,10632600,0.145,0,0,Industrials
+TEE,ASX:TEE,Top End Energy Limited (ASX:TEE),https://www.listcorp.com/asx/tee/top-end-energy-limited,10593800,0.12,0,0,Energy
+ATV,ASX:ATV,ActivePort Group Limited (ASX:ATV),https://www.listcorp.com/asx/atv/activeport-group-limited,10579700,0.019,0,0,Information Technology
+14D,ASX:14D,1414 Degrees Limited (ASX:14D),https://www.listcorp.com/asx/14d/1414-degrees-limited,10569800,0.038,0,0,Industrials
+ALV,ASX:ALV,Alvo Minerals Limited (ASX:ALV),https://www.listcorp.com/asx/alv/alvo-minerals-limited,10544300,0.09,0,0,Materials
+PGO,ASX:PGO,Pacgold Limited (ASX:PGO),https://www.listcorp.com/asx/pgo/pacgold-limited,10516300,0.08,0,0,Materials
+WIN,ASX:WIN,WIN Metals Ltd (ASX:WIN),https://www.listcorp.com/asx/win/win-metals-ltd,10451100,0.019,0,0,Materials
+1CG,ASX:1CG,One Click Group Limited (ASX:1CG),https://www.listcorp.com/asx/1cg/one-click-group-limited,10437500,0.013,0,0,Industrials
+GBZ,ASX:GBZ,GBM Resources Limited (ASX:GBZ),https://www.listcorp.com/asx/gbz/gbm-resources-limited,10410200,0.009,0,0,Materials
+ANR,ASX:ANR,Anatara Lifesciences Ltd (ASX:ANR),https://www.listcorp.com/asx/anr/anatara-lifesciences,10394700,0.05,0,0,Health Care
+HGL,ASX:HGL,Hudson Investment Group Limited (ASX:HGL),https://www.listcorp.com/asx/hgl/hudson-investment-group-limited,10388000,0.175,0,0,Real Estate
+KM1,ASX:KM1,Kali Metals Limited (ASX:KM1),https://www.listcorp.com/asx/km1/kali-metals-limited,10371700,0.135,0,0,Materials
+SP8,ASX:SP8,StreamPlay Studio Limited (ASX:SP8),https://www.listcorp.com/asx/sp8/streamplay-studio-limited,10355600,0.009,0,0,Communication Services
+CDD,ASX:CDD,Cardno Limited (ASX:CDD),https://www.listcorp.com/asx/cdd/cardno,10351100,0.265,0,0,Industrials
+HGV,ASX:HGV,Hygrovest Limited (ASX:HGV),https://www.listcorp.com/asx/hgv/hygrovest-limited,10305200,0.049,0,0,Financials
+PEC,ASX:PEC,Perpetual Resources Limited (ASX:PEC),https://www.listcorp.com/asx/pec/perpetual-resources-limited,10304400,0.014,0,0,Materials
+GML,ASX:GML,Gateway Mining Limited (ASX:GML),https://www.listcorp.com/asx/gml/gateway-mining,10281900,0.024,0,0,Materials
+IG6,ASX:IG6,International Graphite Limited (ASX:IG6),https://www.listcorp.com/asx/ig6/international-graphite-limited,10258600,0.054,0,0,Industrials
+SPA,ASX:SPA,Spacetalk Limited (ASX:SPA),https://www.listcorp.com/asx/spa/spacetalk-limited,10204200,0.16,0,0,Information Technology
+LLI,ASX:LLI,Loyal Lithium Limited (ASX:LLI),https://www.listcorp.com/asx/lli/loyal-lithium-limited,10200600,0.11,0,0,Materials
+MIO,ASX:MIO,Macarthur Minerals Limited (ASX:MIO),https://www.listcorp.com/asx/mio/macarthur-minerals-limited,10182900,0.051,0,0,Materials
+PNM,ASX:PNM,Pacific Nickel Mines Limited (ASX:PNM),https://www.listcorp.com/asx/pnm/pacific-nickel-mines-limited,10103800,0.024,0,0,Materials
+CMG,ASX:CMG,Critical Minerals Group Limited (ASX:CMG),https://www.listcorp.com/asx/cmg/critical-minerals-group-limited,10085200,0.14,0,0,Materials
+ITM,ASX:ITM,iTech Minerals Ltd (ASX:ITM),https://www.listcorp.com/asx/itm/itech-minerals,10073400,0.059,0,0,Materials
+NVO,ASX:NVO,Novo Resources Corp (ASX:NVO),https://www.listcorp.com/asx/nvo/novo-resources-corp,10068000,0.09,0,0,Materials
+EVG,ASX:EVG,Evion Group NL (ASX:EVG),https://www.listcorp.com/asx/evg/evion-group-nl,10061900,0.029,0,0,Materials
+VEN,ASX:VEN,Vintage Energy Ltd (ASX:VEN),https://www.listcorp.com/asx/ven/vintage-energy-ltd,10017200,0.006,0,0,Energy
+100,ASX:H100,Betashares FTSE 100 Currency Hedged ETF (ASX:H100),https://www.listcorp.com/asx/h100/betashares-ftse-100-currency-hedged-etf,10008300,11.13,0,0,Unclassified
+NTL,ASX:NTL,New Talisman Gold Mines Limited (ASX:NTL),https://www.listcorp.com/asx/ntl/new-talisman-gold-mines-limited,10007200,0.016,0,0,Materials
+TG6,ASX:TG6,TG Metals Limited (ASX:TG6),https://www.listcorp.com/asx/tg6/tg-metals-limited,9955060,0.14,0,0,Materials
+SRN,ASX:SRN,Surefire Resources NL (ASX:SRN),https://www.listcorp.com/asx/srn/surefire-resources-nl,9931540,0.005,0,0,Materials
+JCS,ASX:JCS,JCurve Solutions (ASX:JCS),https://www.listcorp.com/asx/jcs/jcurve-solutions,9910300,0.03,0,0,Information Technology
+SHP,ASX:SHP,South Harz Potash Ltd (ASX:SHP),https://www.listcorp.com/asx/shp/south-harz-potash-ltd,9908750,0.01,0,0,Materials
+COY,ASX:COY,Coppermoly Limited (ASX:COY),https://www.listcorp.com/asx/coy/coppermoly,9907200,0.014,0,0,Materials
+GW1,ASX:GW1,Greenwing Resources Ltd (ASX:GW1),https://www.listcorp.com/asx/gw1/greenwing-resources-ltd,9866710,0.041,0,0,Materials
+TYX,ASX:TYX,Tyranna Resources Limited (ASX:TYX),https://www.listcorp.com/asx/tyx/tyranna-resources-limited,9863780,0.003,0,0,Materials
+BDT,ASX:BDT,BirdDog Technology Limited (ASX:BDT),https://www.listcorp.com/asx/bdt/birddog-technology-limited,9850650,0.061,0,0,Information Technology
+ROC,ASX:ROC,RocketBoots Limited (ASX:ROC),https://www.listcorp.com/asx/roc/rocketboots-limited,9807220,0.089,0,0,Information Technology
+UGG,ASX:BUGG,Global X Cybersecurity ETF (ASX:BUGG),https://www.listcorp.com/asx/bugg/global-x-cybersecurity-etf,9794430,13.05,0,0,Unclassified
+MM1,ASX:MM1,Midas Minerals Ltd (ASX:MM1),https://www.listcorp.com/asx/mm1/midas-minerals-ltd,9766370,0.08,0,0,Materials
+ABX,ASX:ABX,ABx Group Limited (ASX:ABX),https://www.listcorp.com/asx/abx/abx-group-limited,9751690,0.039,0,0,Materials
+KBC,ASX:KBC,Keybridge Capital Limited (ASX:KBC),https://www.listcorp.com/asx/kbc/keybridge-capital,9744880,0.047,0,0,Financials
+MKL,ASX:MKL,Mighty Kingdom Limited (ASX:MKL),https://www.listcorp.com/asx/mkl/mighty-kingdom-limited,9722850,0.045,0,0,Communication Services
+NWM,ASX:NWM,Norwest Minerals Limited (ASX:NWM),https://www.listcorp.com/asx/nwm/norwest-minerals-limited,9702390,0.02,0,0,Materials
+CI1,ASX:CI1,Credit Intelligence Limited (ASX:CI1),https://www.listcorp.com/asx/ci1/credit-intelligence-limited,9684970,0.11,0,0,Industrials
+SFG,ASX:SFG,Seafarms Group Limited (ASX:SFG),https://www.listcorp.com/asx/sfg/seafarms-group-limited,9673200,0.002,0,0,Consumer Staples
+NAE,ASX:NAE,New Age Exploration Limited (ASX:NAE),https://www.listcorp.com/asx/nae/new-age-exploration,9647540,0.004,0,0,Energy
+YLD,ASX:QYLD,Global X Nasdaq 100 Covered Call ETF (ASX:QYLD),https://www.listcorp.com/asx/qyld/global-x-nasdaq-100-covered-call-etf,9636180,12.07,0,0,Unclassified
+AJL,ASX:AJL,AJ Lucas Group (ASX:AJL),https://www.listcorp.com/asx/ajl/aj-lucas,9630110,0.007,0,0,Industrials
+TMS,ASX:TMS,Tennant Minerals Limited (ASX:TMS),https://www.listcorp.com/asx/tms/tennant-minerals-limited,9558900,0.01,0,0,Materials
+DVL,ASX:DVL,dorsaVi Ltd (ASX:DVL),https://www.listcorp.com/asx/dvl/dorsavi-ltd,9506090,0.013,0,0,Health Care
+RAG,ASX:RAG,Ragnar Metals Limited (ASX:RAG),https://www.listcorp.com/asx/rag/ragnar-metals-limited,9479720,0.021,0,0,Materials
+FRX,ASX:FRX,Flexiroam Limited (ASX:FRX),https://www.listcorp.com/asx/frx/flexiroam-limited,9427720,0.012,0,0,Communication Services
+TON,ASX:TON,Triton Minerals Limited (ASX:TON),https://www.listcorp.com/asx/ton/triton-minerals-limited,9410330,0.007,0,0,Materials
+IVE,ASX:GIVE,Perpetual ESG Australian Share Fund (Managed Fund) (ASX:GIVE),https://www.listcorp.com/asx/give/perpetual-esg-australian-share-fund-managed-fund,9397710,3.25,0,0,Unclassified
+DGR,ASX:DGR,DGR Global Limited (ASX:DGR),https://www.listcorp.com/asx/dgr/dgr-global-limited,9393260,0.009,0,0,Materials
+CBH,ASX:CBH,Coolabah Metals Limited (ASX:CBH),https://www.listcorp.com/asx/cbh/coolabah-metals-limited,9390940,0.07,0,0,Materials
+CUF,ASX:CUF,CuFe Ltd (ASX:CUF),https://www.listcorp.com/asx/cuf/cufe-ltd,9356720,0.007,0,0,Materials
+BUX,ASX:BUX,Buxton Resources Limited (ASX:BUX),https://www.listcorp.com/asx/bux/buxton-resources-limited,9335860,0.043,0,0,Materials
+LAT,ASX:LAT,Latitude 66 Limited (ASX:LAT),https://www.listcorp.com/asx/lat/latitude-66-limited,9321050,0.065,0,0,Materials
+1AE,ASX:1AE,Aurora Energy Metals Limited (ASX:1AE),https://www.listcorp.com/asx/1ae/aurora-energy-metals-limited,9311310,0.052,0,0,Materials
+MTL,ASX:MTL,Mantle Minerals Limited (ASX:MTL),https://www.listcorp.com/asx/mtl/mantle-minerals-limited,9296170,0.0015,0,0,Materials
+AAU,ASX:AAU,Antilles Gold Limited (ASX:AAU),https://www.listcorp.com/asx/aau/antilles-gold-limited,9278710,0.005,0,0,Materials
+ZNO,ASX:ZNO,Zoono Group Limited (ASX:ZNO),https://www.listcorp.com/asx/zno/zoono-group-limited,9241280,0.026,0,0,Materials
+PVL,ASX:PVL,Powerhouse Ventures Limited (ASX:PVL),https://www.listcorp.com/asx/pvl/powerhouse-ventures-limited,9231000,0.074,0,0,Financials
+LNU,ASX:LNU,Linius Technologies Limited (ASX:LNU),https://www.listcorp.com/asx/lnu/linius-technologies-limited,9226820,0.0015,0,0,Information Technology
+FME,ASX:FME,Future Metals NL (ASX:FME),https://www.listcorp.com/asx/fme/future-metals-nl,9200650,0.016,0,0,Materials
+FL1,ASX:FL1,First Lithium Limited (ASX:FL1),https://www.listcorp.com/asx/fl1/first-lithium-limited,9160160,0.115,0,0,Materials
+MMR,ASX:MMR,MEC Resources Limited (ASX:MMR),https://www.listcorp.com/asx/mmr/mec-resources-limited,9159040,0.005,0,0,Energy
+HAL,ASX:HAL,Halo Technologies Holdings Limited (ASX:HAL),https://www.listcorp.com/asx/hal/halo-technologies-holdings,9133180,0.071,0,0,Financials
+GLA,ASX:GLA,Gladiator Resources Ltd (ASX:GLA),https://www.listcorp.com/asx/gla/gladiator-resources,9099560,0.012,0,0,Materials
+1MC,ASX:1MC,Morella Corporation Limited (ASX:1MC),https://www.listcorp.com/asx/1mc/morella-corporation-limited,9092660,0.03,0,0,Materials
+VSR,ASX:VSR,Voltaic Strategic Resources Ltd (ASX:VSR),https://www.listcorp.com/asx/vsr/-voltaic-strategic-resources-ltd,9080800,0.016,0,0,Materials
+AON,ASX:AON,Apollo Minerals Limited (ASX:AON),https://www.listcorp.com/asx/aon/apollo-minerals-limited,9052460,0.013,0,0,Materials
+APL,ASX:APL,Associate Global Partners Limited (ASX:APL),https://www.listcorp.com/asx/apl/associate-global-partners-limited,9038790,0.16,0,0,Financials
+EV1,ASX:EV1,Evolution Energy Minerals Limited (ASX:EV1),https://www.listcorp.com/asx/ev1/evolution-energy-minerals-limited,9014180,0.025,0,0,Materials
+MGU,ASX:MGU,Magnum Mining & Exploration Limited (ASX:MGU),https://www.listcorp.com/asx/mgu/magnum-mining-and-exploration-limited,8902980,0.011,0,0,Materials
+GTR,ASX:GTR,GTI Energy Ltd (ASX:GTR),https://www.listcorp.com/asx/gtr/gti-energy-ltd,8888850,0.003,0,0,Materials
+BCM,ASX:BCM,Brazilian Critical Minerals Limited (ASX:BCM),https://www.listcorp.com/asx/bcm/brazilian-critical-minerals-limited,8885100,0.01,0,0,Materials
+PRS,ASX:PRS,Prospech Limited (ASX:PRS),https://www.listcorp.com/asx/prs/prospech-limited,8878300,0.027,0,0,Materials
+KNO,ASX:KNO,Knosys Limited (ASX:KNO),https://www.listcorp.com/asx/kno/knosys-limited,8861690,0.041,0,0,Information Technology
+VAR,ASX:VAR,Variscan Mines Limited (ASX:VAR),https://www.listcorp.com/asx/var/variscan-mines-limited,8860010,0.011,0,0,Materials
+EMN,ASX:EMN,Euro Manganese Inc (ASX:EMN),https://www.listcorp.com/asx/emn/euro-manganese-inc,8854990,0.042,0,0,Materials
+TSL,ASX:TSL,Titanium Sands Limited (ASX:TSL),https://www.listcorp.com/asx/tsl/titanium-sands-limited,8846990,0.005,0,0,Materials
+PGD,ASX:PGD,Peregrine Gold Limited (ASX:PGD),https://www.listcorp.com/asx/pgd/peregrine-gold-limited,8824200,0.13,0,0,Materials
+MEM,ASX:MEM,Memphasys Limited (ASX:MEM),https://www.listcorp.com/asx/mem/memphasys-limited,8815410,0.005,0,0,Health Care
+DTR,ASX:DTR,Dateline Resources Limited (ASX:DTR),https://www.listcorp.com/asx/dtr/dateline-resources,8806910,0.003,0,0,Materials
+BLZ,ASX:BLZ,Blaze Minerals Limited (ASX:BLZ),https://www.listcorp.com/asx/blz/blaze-minerals-limited,8774910,0.007,0,0,Energy
+RRR,ASX:RRR,Revolver Resources Holdings Ltd (ASX:RRR),https://www.listcorp.com/asx/rrr/revolver-resources-holdings,8739980,0.032,0,0,Materials
+AXP,ASX:AXP,AXP Energy Limited (ASX:AXP),https://www.listcorp.com/asx/axp/axp-energy-limited,8737020,0.0015,0,0,Energy
+NME,ASX:NME,Nex Metals Explorations (ASX:NME),https://www.listcorp.com/asx/nme/nex-metals-explorations,8712900,0.032,0,0,Materials
+MRR,ASX:MRR,Minrex Resources Limited (ASX:MRR),https://www.listcorp.com/asx/mrr/minrex-resources-limited,8678940,0.008,0,0,Materials
+DOU,ASX:DOU,Douugh Limited (ASX:DOU),https://www.listcorp.com/asx/dou/douugh-limited,8656550,0.008,0,0,Information Technology
+MVL,ASX:MVL,Marvel Gold Limited (ASX:MVL),https://www.listcorp.com/asx/mvl/marvel-gold-limited,8637910,0.01,0,0,Materials
+CSE,ASX:CSE,Copper Strike Limited (ASX:CSE),https://www.listcorp.com/asx/cse/copper-strike,8608530,0.0641225,0,0,Materials
+AQX,ASX:AQX,Alice Queen Limited (ASX:AQX),https://www.listcorp.com/asx/aqx/alice-queen-limited,8601680,0.0075,0,0,Materials
+LIO,ASX:LIO,Lion Energy Limited (ASX:LIO),https://www.listcorp.com/asx/lio/lion-energy-limited,8591190,0.019,0,0,Energy
+TAV,ASX:MTAV,BetaShares Metaverse ETF (ASX:MTAV),https://www.listcorp.com/asx/mtav/betashares-metaverse-etf,8573190,17.96,0,0,Unclassified
+PFE,ASX:PFE,Pantera Lithium Limited (ASX:PFE),https://www.listcorp.com/asx/pfe/pantera-lithium-limited,8528110,0.018,0,0,Materials
+8CO,ASX:8CO,8common Limited (ASX:8CO),https://www.listcorp.com/asx/8co/8common-limited,8515610,0.036,0,0,Information Technology
+SRK,ASX:SRK,Strike Resources Limited (ASX:SRK),https://www.listcorp.com/asx/srk/strike-resources,8512500,0.03,0,0,Materials
+IRX,ASX:IRX,InhaleRx Limited (ASX:IRX),https://www.listcorp.com/asx/irx/inhalerx-limited,8447270,0.04,0,0,Health Care
+BUR,ASX:BUR,Burley Minerals Ltd (ASX:BUR),https://www.listcorp.com/asx/bur/burley-minerals-ltd,8420770,0.056,0,0,Materials
+TRI,ASX:TRI,TrivarX Limited (ASX:TRI),https://www.listcorp.com/asx/tri/trivarx-limited,8367670,0.018,0,0,Health Care
+GIB,ASX:GIB,Gibb River Diamonds Limited (ASX:GIB),https://www.listcorp.com/asx/gib/gibb-river-diamonds-limited,8365870,0.039,0,0,Materials
+MBK,ASX:MBK,Metal Bank Limited (ASX:MBK),https://www.listcorp.com/asx/mbk/metal-bank,8297260,0.018,0,0,Materials
+CRS,ASX:CRS,Caprice Resources Ltd (ASX:CRS),https://www.listcorp.com/asx/crs/caprice-resources,8239070,0.02,0,0,Materials
+PAB,ASX:PAB,Patrys Limited (ASX:PAB),https://www.listcorp.com/asx/pab/patrys-limited,8229790,0.004,0,0,Health Care
+MRQ,ASX:MRQ,MRG Metals Limited (ASX:MRQ),https://www.listcorp.com/asx/mrq/mrg-metals-limited,8179560,0.003,0,0,Materials
+PVT,ASX:PVT,Pivotal Metals Limited (ASX:PVT),https://www.listcorp.com/asx/pvt/pivotal-metals-limited,8165030,0.009,0,0,Materials
+ADV,ASX:ADV,Ardiden Limited (ASX:ADV),https://www.listcorp.com/asx/adv/ardiden-limited,8127280,0.13,0,0,Materials
+CML,ASX:CML,Connected Minerals Limited (ASX:CML),https://www.listcorp.com/asx/cml/connected-minerals-limited,8064850,0.195,0,0,Information Technology
+BGT,ASX:BGT,Bio-Gene Technology Limited (ASX:BGT),https://www.listcorp.com/asx/bgt/bio-gene-technology,8054460,0.04,0,0,Materials
+HVY,ASX:HVY,Heavy Minerals Limited (ASX:HVY),https://www.listcorp.com/asx/hvy/heavy-minerals-limited,8045230,0.13,0,0,Materials
+TAT,ASX:TAT,Tartana Minerals Limited (ASX:TAT),https://www.listcorp.com/asx/tat/tartana-minerals-limited,8036420,0.044,0,0,Materials
+UCM,ASX:UCM,Uscom Limited (ASX:UCM),https://www.listcorp.com/asx/ucm/uscom-limited,8015260,0.032,0,0,Health Care
+REE,ASX:REE,RareX Limited (ASX:REE),https://www.listcorp.com/asx/ree/rarex-limited,8008460,0.01,0,0,Materials
+MPG,ASX:MPG,Many Peaks Gold Limited (ASX:MPG),https://www.listcorp.com/asx/mpg/many-peaks-gold-limited,8002390,0.22,0,0,Materials
+HOR,ASX:HOR,Horseshoe Metals Limited (ASX:HOR),https://www.listcorp.com/asx/hor/horseshoe-metals-limited,7959380,0.012,0,0,Materials
+T88,ASX:T88,Taiton Resources Limited (ASX:T88),https://www.listcorp.com/asx/t88/taiton-resources-limited,7920560,0.145,0,0,Energy
+ENV,ASX:ENV,Enova Mining Limited (ASX:ENV),https://www.listcorp.com/asx/env/enova-mining-limited,7879440,0.007,0,0,Materials
+PR2,ASX:PR2,Piche Resources Limited (ASX:PR2),https://www.listcorp.com/asx/pr2/piche-resources-limited,7868470,0.098,0,0,Unclassified
+ANX,ASX:ANX,Anax Metals Limited (ASX:ANX),https://www.listcorp.com/asx/anx/anax-metals-limited,7842910,0.009,0,0,Materials
+CAZ,ASX:CAZ,Cazaly Resources Limited (ASX:CAZ),https://www.listcorp.com/asx/caz/cazaly-resources,7842150,0.017,0,0,Materials
+GLH,ASX:GLH,Global Health Limited (ASX:GLH),https://www.listcorp.com/asx/glh/global-health-limited,7836690,0.135,0,0,Health Care
+ALM,ASX:ALM,Alma Metals Limited (ASX:ALM),https://www.listcorp.com/asx/alm/alma-metals-limited,7832610,0.005,0,0,Energy
+MRD,ASX:MRD,Mount Ridley Mines Limited (ASX:MRD),https://www.listcorp.com/asx/mrd/mount-ridley-mines-limited,7784880,0.001,0,0,Materials
+DYM,ASX:DYM,Dynamic Metals Limited (ASX:DYM),https://www.listcorp.com/asx/dym/dynamic-metals-limited,7740000,0.215,0,0,Materials
+IPC,ASX:IPC,Imperial Pacific Limited (ASX:IPC),https://www.listcorp.com/asx/ipc/imperial-pacific,7710390,1.45,0,0,Financials
+FTZ,ASX:FTZ,Fertoz Ltd (ASX:FTZ),https://www.listcorp.com/asx/ftz/fertoz,7707970,0.026,0,0,Materials
+RNX,ASX:RNX,Renegade Exploration Limited (ASX:RNX),https://www.listcorp.com/asx/rnx/renegade-exploration-limited,7704020,0.006,0,0,Materials
+D3E,ASX:D3E,D3 Energy Limited (ASX:D3E),https://www.listcorp.com/asx/d3e/d3-energy-limited,7629600,0.096,0,0,Energy
+REY,ASX:REY,Rey Resources Limited (ASX:REY),https://www.listcorp.com/asx/rey/rey-resources-limited,7616190,0.036,0,0,Energy
+RFA,ASX:RFA,Rare Foods Australia Ltd (ASX:RFA),https://www.listcorp.com/asx/rfa/rare-foods-australia-ltd,7615530,0.028,0,0,Consumer Staples
+OLL,ASX:OLL,OpenLearning Limited (ASX:OLL),https://www.listcorp.com/asx/oll/openlearning-limited,7615240,0.018,0,0,Information Technology
+ODE,ASX:ODE,Odessa Minerals Limited (ASX:ODE),https://www.listcorp.com/asx/ode/odessa-minerals-limited,7609700,0.006,0,0,Materials
+ADR,ASX:ADR,Adherium Limited (ASX:ADR),https://www.listcorp.com/asx/adr/adherium-limited,7585800,0.01,0,0,Health Care
+TOY,ASX:TOY,Toys R Us ANZ Limited (ASX:TOY),https://www.listcorp.com/asx/toy/toys-r-us-anz-limited,7563110,0.05,0,0,Consumer Discretionary
+LOM,ASX:LOM,Lucapa Diamond Company Limited (ASX:LOM),https://www.listcorp.com/asx/lom/lucapa-diamond-company-limited,7543170,0.026,0,0,Materials
+SNX,ASX:SNX,Sierra Nevada Gold Inc. (ASX:SNX),https://www.listcorp.com/asx/snx/sierra-nevada-gold-inc.,7527220,0.049,0,0,Materials
+CMB,ASX:CMB,Cambium Bio Limited (ASX:CMB),https://www.listcorp.com/asx/cmb/cambium-bio-limited,7456880,0.625,0,0,Health Care
+L1M,ASX:L1M,Lightning Minerals Ltd (ASX:L1M),https://www.listcorp.com/asx/l1m/lightning-minerals-ltd,7439640,0.072,0,0,Materials
+VTI,ASX:VTI,Visioneering Technologies Inc (ASX:VTI),https://www.listcorp.com/asx/vti/visioneering-technologies-inc,7429920,0.135,0,0,Health Care
+EE1,ASX:EE1,Earths Energy Limited (ASX:EE1),https://www.listcorp.com/asx/ee1/earths-energy-limited,7419500,0.014,0,0,Materials
+TAR,ASX:TAR,Taruga Minerals Limited (ASX:TAR),https://www.listcorp.com/asx/tar/taruga-minerals-limited,7413280,0.0105,0,0,Materials
+NDQ,ASX:QNDQ,Betashares Nasdaq 100 Equal Weight ETF (ASX:QNDQ),https://www.listcorp.com/asx/qndq/betashares-nasdaq-100-equal-weight-etf,7399480,16.48,0,0,Unclassified
+MRI,ASX:MRI,My Rewards International Limited (ASX:MRI),https://www.listcorp.com/asx/mri/my-rewards-international-limited,7383070,0.009,0,0,Industrials
+AD1,ASX:AD1,AD1 Holdings Limited (ASX:AD1),https://www.listcorp.com/asx/ad1/ad1-holdings-limited,7359810,0.052,0,0,Communication Services
+GRE,ASX:GRE,Greentech Metals Limited (ASX:GRE),https://www.listcorp.com/asx/gre/greentech-metals-limited,7353320,0.079,0,0,Materials
+GGE,ASX:GGE,Grand Gulf Energy Limited (ASX:GGE),https://www.listcorp.com/asx/gge/grand-gulf-energy-limited,7351160,0.003,0,0,Energy
+SCT,ASX:SCT,Scout Security Limited (ASX:SCT),https://www.listcorp.com/asx/sct/scout-security-limited,7346960,0.52003,0,0,Consumer Discretionary
+LHM,ASX:LHM,Land and Homes Group Limited (ASX:LHM),https://www.listcorp.com/asx/lhm/land-and-homes-group-limited,7345720,0.007,0,0,Real Estate
+LNR,ASX:LNR,Lanthanein Resources Limited (ASX:LNR),https://www.listcorp.com/asx/lnr/lanthanein-resources-limited,7330910,0.003,0,0,Materials
+ASQ,ASX:ASQ,Australian Silica Quartz Group Ltd (ASX:ASQ),https://www.listcorp.com/asx/asq/australian-silica-quartz-group-ltd,7328370,0.026,0,0,Materials
+FG1,ASX:FG1,Flynn Gold Limited (ASX:FG1),https://www.listcorp.com/asx/fg1/flynn-gold-limited,7316860,0.028,0,0,Materials
+KLI,ASX:KLI,Killi Resources Limited (ASX:KLI),https://www.listcorp.com/asx/kli/killi-resources-limited,7291640,0.052,0,0,Materials
+MEL,ASX:MEL,Metgasco Limited (ASX:MEL),https://www.listcorp.com/asx/mel/metgasco-limited,7287930,0.005,0,0,Energy
+THB,ASX:THB,Thunderbird Resources Limited (ASX:THB),https://www.listcorp.com/asx/thb/thunderbird-resources-limited,7284030,0.02,0,0,Materials
+PUR,ASX:PUR,Pursuit Minerals Limited (ASX:PUR),https://www.listcorp.com/asx/pur/pursuit-minerals-limited,7270800,0.002,0,0,Materials
+CPN,ASX:CPN,Caspin Resources Limited (ASX:CPN),https://www.listcorp.com/asx/cpn/caspin-resources-limited,7267430,0.053,0,0,Materials
+QEM,ASX:QEM,QEM Limited (ASX:QEM),https://www.listcorp.com/asx/qem/qem-limited,7251680,0.038,0,0,Materials
+BDG,ASX:BDG,Black Dragon Gold Corp. (ASX:BDG),https://www.listcorp.com/asx/bdg/black-dragon-gold-corp.,7245180,0.024,0,0,Materials
+DLM,ASX:DLM,Dominion Minerals Limited (ASX:DLM),https://www.listcorp.com/asx/dlm/dominion-minerals-limited,7227230,0.032,0,0,Materials
+SW1,ASX:SW1,Swift Networks Group Limited (ASX:SW1),https://www.listcorp.com/asx/sw1/swift-networks-group-limited,7214720,0.011,0,0,Communication Services
+EPN,ASX:EPN,Epsilon Healthcare Limited (ASX:EPN),https://www.listcorp.com/asx/epn/epsilon-healthcare-limited,7208500,0.024,0,0,Health Care
+KCC,ASX:KCC,Kincora Copper Limited (ASX:KCC),https://www.listcorp.com/asx/kcc/kincora-copper-limited,7159410,0.033,0,0,Materials
+SCP,ASX:SCP,Scalare Partners Holdings Limited (ASX:SCP),https://www.listcorp.com/asx/scp/scalare-partners-holdings-limited,7150970,0.205,0,0,Consumer Staples
+OCT,ASX:OCT,Octava Minerals Limited (ASX:OCT),https://www.listcorp.com/asx/oct/octava-minerals-limited,7109350,0.12,0,0,Materials
+SIV,ASX:SIV,SIV Capital Limited (ASX:SIV),https://www.listcorp.com/asx/siv/siv-capital-limited,7102930,0.15,0,0,Industrials
+PO3,ASX:PO3,Purifloh Limited (ASX:PO3),https://www.listcorp.com/asx/po3/purifloh-limited,7078170,0.22,0,0,Utilities
+ALY,ASX:ALY,Alchemy Resources Limited (ASX:ALY),https://www.listcorp.com/asx/aly/alchemy-resources-limited,7068460,0.006,0,0,Materials
+HMI,ASX:HMI,Hiremii Limited (ASX:HMI),https://www.listcorp.com/asx/hmi/hiremii-limited,7061540,0.048,0,0,Industrials
+ORP,ASX:ORP,Orpheus Uranium Limited (ASX:ORP),https://www.listcorp.com/asx/orp/orpheus-uranium-limited,7023910,0.037,0,0,Materials
+BCC,ASX:BCC,Beam Communications Holdings Limited (ASX:BCC),https://www.listcorp.com/asx/bcc/beam-communications-holdings-limited,7000180,0.081,0,0,Information Technology
+CHM,ASX:CHM,Chimeric Therapeutics Limited (ASX:CHM),https://www.listcorp.com/asx/chm/chimeric-therapeutics-limited,6965990,0.007,0,0,Health Care
+ASR,ASX:ASR,Asra Minerals Limited (ASX:ASR),https://www.listcorp.com/asx/asr/asra-minerals-limited,6937810,0.0035,0,0,Materials
+VMG,ASX:VMG,VDM Group Limited (ASX:VMG),https://www.listcorp.com/asx/vmg/vdm-group-limited,6927660,0.001,0,0,Industrials
+ZLD,ASX:ZLD,Zelira Therapeutics Limited (ASX:ZLD),https://www.listcorp.com/asx/zld/zelira-therapeutics-limited,6921760,0.61,0,0,Health Care
+SRR,ASX:SRR,Sarama Resources Limited (ASX:SRR),https://www.listcorp.com/asx/srr/sarama-resources-limited,6848460,0.029,0,0,Materials
+ARP,ASX:GARP,Global X S&P World ex Australia GARP ETF (ASX:GARP),https://www.listcorp.com/asx/garp/global-x-s-and-p-world-ex-australia-garp-etf,6846000,11.41,0,0,Unclassified
+OPN,ASX:OPN,Openn Negotiation Limited (ASX:OPN),https://www.listcorp.com/asx/opn/openn-negotiation-limited,6775080,0.006,0,0,Industrials
+PPY,ASX:PPY,Papyrus Australia Limited (ASX:PPY),https://www.listcorp.com/asx/ppy/papyrus-australia-limited,6766120,0.013,0,0,Materials
+AHN,ASX:AHN,Athena Resources Limited (ASX:AHN),https://www.listcorp.com/asx/ahn/athena-resources-limited,6677340,0.005,0,0,Materials
+DM1,ASX:DM1,Desert Metals Limited (ASX:DM1),https://www.listcorp.com/asx/dm1/desert-metals-limited,6635640,0.025,0,0,Materials
+NYM,ASX:NYM,Narryer Metals Limited (ASX:NYM),https://www.listcorp.com/asx/nym/narryer-metals-limited,6625300,0.05,0,0,Materials
+AYT,ASX:AYT,Austin Metals Limited (ASX:AYT),https://www.listcorp.com/asx/ayt/austin-metals-limited,6620960,0.005,0,0,Materials
+IGN,ASX:IGN,Ignite Limited (ASX:IGN),https://www.listcorp.com/asx/ign/ignite-limited,6609010,0.405,0,0,Industrials
+ILT,ASX:ILT,Iltani Resources Limited (ASX:ILT),https://www.listcorp.com/asx/ilt/iltani-resources-limited,6601580,0.15,0,0,Materials
+NGS,ASX:NGS,Nutritional Growth Solutions Ltd (ASX:NGS),https://www.listcorp.com/asx/ngs/nutritional-growth-solutions,6590870,0.051,0,0,Consumer Staples
+INP,ASX:INP,IncentiaPay Limited (ASX:INP),https://www.listcorp.com/asx/inp/incentiapay-limited,6543930,0.005,0,0,Communication Services
+CGR,ASX:CGR,CGN Resources Limited (ASX:CGR),https://www.listcorp.com/asx/cgr/cgn-resources-limited,6536030,0.072,0,0,Materials
+SIT,ASX:SIT,Site Group International Limited (ASX:SIT),https://www.listcorp.com/asx/sit/site-group-international-limited,6514980,0.002,0,0,Consumer Discretionary
+RGL,ASX:RGL,Riversgold Limited (ASX:RGL),https://www.listcorp.com/asx/rgl/riversgold-limited,6509850,0.004,0,0,Materials
+SLM,ASX:SLM,Solis Minerals Limited (ASX:SLM),https://www.listcorp.com/asx/slm/solis-minerals-limited,6493440,0.087,0,0,Materials
+GDM,ASX:GDM,Great Divide Mining Ltd (ASX:GDM),https://www.listcorp.com/asx/gdm/great-divide-mining-ltd,6464920,0.23,0,0,Materials
+CAQ,ASX:CAQ,CAQ Holdings Limited (ASX:CAQ),https://www.listcorp.com/asx/caq/caq-holdings-limited,6460080,0.009,0,0,Real Estate
+RON,ASX:RON,Ronin Resources Ltd (ASX:RON),https://www.listcorp.com/asx/ron/ronin-resources-ltd,6460000,0.16,0,0,Materials
+MOZ,ASX:MOZ,Mosaic Brands Limited (ASX:MOZ),https://www.listcorp.com/asx/moz/mosaic-brands-limited,6426230,0.036,0,0,Consumer Discretionary
+W2V,ASX:W2V,Way 2 VAT Ltd (ASX:W2V),https://www.listcorp.com/asx/w2v/way-2-vat-ltd,6401390,0.007,0,0,Information Technology
+AUA,ASX:AUA,Audeara Limited (ASX:AUA),https://www.listcorp.com/asx/aua/audeara-limited,6389860,0.044,0,0,Consumer Discretionary
+AXL,ASX:AXL,Axel Ree Limited (ASX:AXL),https://www.listcorp.com/asx/axl/axel-ree-limited,6363130,0.07,0,0,Unclassified
+CVR,ASX:CVR,Cavalier Resources Limited (ASX:CVR),https://www.listcorp.com/asx/cvr/cavalier-resources-limited,6362640,0.11,0,0,Materials
+PRX,ASX:PRX,Prodigy Gold NL (ASX:PRX),https://www.listcorp.com/asx/prx/prodigy-gold-nl,6350110,0.002,0,0,Materials
+WHK,ASX:WHK,WhiteHawk Limited (ASX:WHK),https://www.listcorp.com/asx/whk/whitehawk-limited,6344790,0.01,0,0,Information Technology
+ECT,ASX:ECT,Environmental Clean Technologies Limited (ASX:ECT),https://www.listcorp.com/asx/ect/environmental-clean-technologies-limited,6343620,0.002,0,0,Industrials
+TMX,ASX:TMX,Terrain Minerals Limited (ASX:TMX),https://www.listcorp.com/asx/tmx/terrain-minerals-limited,6300100,0.0035,0,0,Materials
+EXL,ASX:EXL,Elixinol Wellness Limited (ASX:EXL),https://www.listcorp.com/asx/exl/elixinol-wellness-limited,6240280,0.004,0,0,Consumer Staples
+BCA,ASX:BCA,Black Canyon Limited (ASX:BCA),https://www.listcorp.com/asx/bca/black-canyon-limited,6218470,0.071,0,0,Materials
+KAL,ASX:KAL,Kalgoorlie Gold Mining Limited (ASX:KAL),https://www.listcorp.com/asx/kal/kalgoorlie-gold-mining-limited,6217090,0.023,0,0,Materials
+FAU,ASX:FAU,First Au Limited (ASX:FAU),https://www.listcorp.com/asx/fau/first-au-limited,6215980,0.002,0,0,Materials
+EDE,ASX:EDE,Eden Innovations Ltd (ASX:EDE),https://www.listcorp.com/asx/ede/eden-innovations,6162310,0.0015,0,0,Energy
+ICG,ASX:ICG,Inca Minerals Limited (ASX:ICG),https://www.listcorp.com/asx/icg/inca-minerals-limited,6160340,0.005,0,0,Materials
+RB6,ASX:RB6,Rubix Resources Limited (ASX:RB6),https://www.listcorp.com/asx/rb6/rubix-resources-limited,6145000,0.1,0,0,Materials
+PHL,ASX:PHL,Propell Holdings Limited (ASX:PHL),https://www.listcorp.com/asx/phl/propell-holdings-limited,6123440,0.022,0,0,Financials
+RR1,ASX:RR1,Reach Resources Limited (ASX:RR1),https://www.listcorp.com/asx/rr1/reach-resources-limited,6121020,0.007,0,0,Materials
+USG,ASX:IUSG,iShares U.S. Treasury Bond (AUD Hedged) ETF (ASX:IUSG),https://www.listcorp.com/asx/iusg/ishares-u.s.-treasury-bond-aud-hedged-etf,6112610,101.77,0,0,Unclassified
+DDT,ASX:DDT,DataDot Technology Limited (ASX:DDT),https://www.listcorp.com/asx/ddt/datadot-technology-limited,6054760,0.005,0,0,Consumer Discretionary
+LU7,ASX:LU7,Lithium Universe Limited (ASX:LU7),https://www.listcorp.com/asx/lu7/lithium-universe-limited,6045640,0.009,0,0,Materials
+PLN,ASX:PLN,Pioneer Lithium Limited (ASX:PLN),https://www.listcorp.com/asx/pln/pioneer-lithium-limited,6039000,0.19,0,0,Materials
+KUK,ASX:SKUK,Hejaz Sukuk Active ETF (Managed Fund) (ASX:SKUK),https://www.listcorp.com/asx/skuk/hejaz-sukuk-active-etf-managed-fund,6032640,1.055,0,0,Unclassified
+BUY,ASX:BUY,Bounty Oil & Gas NL (ASX:BUY),https://www.listcorp.com/asx/buy/bounty-oil-and-gas,5994000,0.004,0,0,Energy
+BFC,ASX:BFC,Beston Global Food Company (ASX:BFC),https://www.listcorp.com/asx/bfc/beston-global-food-company,5991140,0.003,0,0,Consumer Staples
+RC1,ASX:RC1,Redcastle Resources Limited (ASX:RC1),https://www.listcorp.com/asx/rc1/redcastle-resources-limited,5948540,0.008,0,0,Materials
+OLI,ASX:OLI,Oliver's Real Food Limited (ASX:OLI),https://www.listcorp.com/asx/oli/olivers-real-food-limited,5948050,0.011,0,0,Consumer Discretionary
+SSH,ASX:SSH,SSH Group Ltd (ASX:SSH),https://www.listcorp.com/asx/ssh/ssh-group-ltd,5930990,0.09,0,0,Industrials
+XGL,ASX:XGL,Xamble Group Limited (ASX:XGL),https://www.listcorp.com/asx/xgl/xamble-group-limited,5923140,0.02,0,0,Communication Services
+SVG,ASX:SVG,Savannah Goldfields Limited (ASX:SVG),https://www.listcorp.com/asx/svg/savannah-goldfields-limited,5902780,0.022,0,0,Materials
+EM2,ASX:EM2,Eagle Mountain Mining Limited (ASX:EM2),https://www.listcorp.com/asx/em2/eagle-mountain-mining-limited,5893120,0.015,0,0,Materials
+WOA,ASX:WOA,Wide Open Agriculture Ltd (ASX:WOA),https://www.listcorp.com/asx/woa/wide-open-agriculture-ltd,5870550,0.011,0,0,Consumer Staples
+POW,ASX:POW,Protean Energy Limited (ASX:POW),https://www.listcorp.com/asx/pow/protean-energy-limited,5855490,0.02288,0,0,Materials
+M2M,ASX:M2M,Mt Malcolm Mines NL (ASX:M2M),https://www.listcorp.com/asx/m2m/mt-malcolm-mines-nl,5849370,0.026,0,0,Materials
+YLD,ASX:UYLD,Global X S&P 500 Covered Call ETF (ASX:UYLD),https://www.listcorp.com/asx/uyld/global-x-s-and-p-500-covered-call-etf,5835410,11.76,0,0,Unclassified
+DTI,ASX:DTI,DTI Group (ASX:DTI),https://www.listcorp.com/asx/dti/dti-group,5831170,0.013,0,0,Information Technology
+MGA,ASX:MGA,MetalsGrove Mining Ltd (ASX:MGA),https://www.listcorp.com/asx/mga/metalsgrove-mining-ltd,5798100,0.055,0,0,Materials
+QXR,ASX:QXR,QX Resources Limited (ASX:QXR),https://www.listcorp.com/asx/qxr/qx-resources-limited,5760350,0.0045,0,0,Materials
+YOW,ASX:YOW,Yowie Group Ltd (ASX:YOW),https://www.listcorp.com/asx/yow/yowie-group-ltd,5734200,0.025,0,0,Consumer Staples
+GR8,ASX:GR8,Great Dirt Resources Limited (ASX:GR8),https://www.listcorp.com/asx/gr8/great-dirt-resources-limited,5723500,0.195,0,0,Materials
+TFL,ASX:TFL,TasFoods Limited (ASX:TFL),https://www.listcorp.com/asx/tfl/tasfoods-limited,5682240,0.013,0,0,Consumer Staples
+LVE,ASX:LVE,Love Group Global Limited (ASX:LVE),https://www.listcorp.com/asx/lve/love-group-global-limited,5674780,0.14,0,0,Communication Services
+GTG,ASX:GTG,Genetic Technologies Limited (ASX:GTG),https://www.listcorp.com/asx/gtg/genetic-technologies-limited,5671270,0.039,0,0,Health Care
+DTM,ASX:DTM,Dart Mining NL (ASX:DTM),https://www.listcorp.com/asx/dtm/dart-mining,5661940,0.011,0,0,Materials
+RAN,ASX:RAN,Range International Limited (ASX:RAN),https://www.listcorp.com/asx/ran/range-international-limited,5635740,0.006,0,0,Materials
+NRZ,ASX:NRZ,NeuRizer Ltd (ASX:NRZ),https://www.listcorp.com/asx/nrz/neurizer-ltd,5635720,0.002,0,0,Materials
+WGR,ASX:WGR,Western Gold Resources Limited (ASX:WGR),https://www.listcorp.com/asx/wgr/western-gold-resources-limited,5621720,0.033,0,0,Materials
+AM5,ASX:AM5,Antares Metals Limited (ASX:AM5),https://www.listcorp.com/asx/am5/antares-metals-limited,5604290,0.011,0,0,Materials
+ADG,ASX:ADG,Adelong Gold Limited (ASX:ADG),https://www.listcorp.com/asx/adg/adelong-gold-limited,5589940,0.005,0,0,Materials
+WEC,ASX:WEC,White Energy Company Limited (ASX:WEC),https://www.listcorp.com/asx/wec/white-energy-company-limited,5571560,0.028,0,0,Energy
+ZMI,ASX:ZMI,Zinc of Ireland NL (ASX:ZMI),https://www.listcorp.com/asx/zmi/zinc-of-ireland-nl,5563100,0.011,0,0,Materials
+AVM,ASX:AVM,Advance Metals Limited (ASX:AVM),https://www.listcorp.com/asx/avm/advance-metals-limited,5560470,0.033,0,0,Materials
+AER,ASX:AER,Aeeris Ltd (ASX:AER),https://www.listcorp.com/asx/aer/aeeris-ltd,5559310,0.076,0,0,Communication Services
+IBG,ASX:IBG,Ironbark Zinc Limited (ASX:IBG),https://www.listcorp.com/asx/ibg/ironbark-zinc,5500940,0.003,0,0,Materials
+AML,ASX:AML,Aeon Metals (ASX:AML),https://www.listcorp.com/asx/aml/aeon-metals,5482000,0.005,0,0,Materials
+UVA,ASX:UVA,Uvre Limited (ASX:UVA),https://www.listcorp.com/asx/uva/uvre-limited,5481500,0.095,0,0,Materials
+GES,ASX:GES,Genesis Resources Limited (ASX:GES),https://www.listcorp.com/asx/ges/genesis-resources-limited,5479890,0.007,0,0,Materials
+NRX,ASX:NRX,Noronex Limited (ASX:NRX),https://www.listcorp.com/asx/nrx/noronex-limited,5460450,0.011,0,0,Materials
+FNR,ASX:FNR,Far Northern Resources Limited (ASX:FNR),https://www.listcorp.com/asx/fnr/far-northern-resources-limited,5439870,0.15,0,0,Materials
+VLU,ASX:HVLU,VanEck MSCI International Value (AUD Hedged) ETF (ASX:HVLU),https://www.listcorp.com/asx/hvlu/vaneck-msci-international-value-aud-hedged-etf,5420220,27.1,0,0,Unclassified
+MQR,ASX:MQR,Marquee Resources Limited (ASX:MQR),https://www.listcorp.com/asx/mqr/marquee-resources-limited,5413000,0.013,0,0,Materials
+IXC,ASX:IXC,Invex Therapeutics Limited (ASX:IXC),https://www.listcorp.com/asx/ixc/invex-therapeutics-limited,5411080,0.072,0,0,Health Care
+TG1,ASX:TG1,TechGen Metals Limited (ASX:TG1),https://www.listcorp.com/asx/tg1/techgen-metals-limited,5394630,0.034,0,0,Materials
+SER,ASX:SER,Strategic Energy Resources Limited (ASX:SER),https://www.listcorp.com/asx/ser/strategic-energy-resources-limited,5368270,0.008,0,0,Materials
+PL3,ASX:PL3,Patagonia Lithium Limited (ASX:PL3),https://www.listcorp.com/asx/pl3/patagonia-lithium-limited,5362860,0.082,0,0,Materials
+AL8,ASX:AL8,Alderan Resources Limited (ASX:AL8),https://www.listcorp.com/asx/al8/alderan-resources-limited,5346020,0.028,0,0,Materials
+CHR,ASX:CHR,Charger Metals NL (ASX:CHR),https://www.listcorp.com/asx/chr/charger-metals-nl,5342000,0.069,0,0,Materials
+NC6,ASX:NC6,Nanollose Limited (ASX:NC6),https://www.listcorp.com/asx/nc6/nanollose-limited,5332200,0.031,0,0,Health Care
+BHD,ASX:BHD,Benjamin Hornigold Limited (ASX:BHD),https://www.listcorp.com/asx/bhd/benjamin-hornigold-limited,5314150,0.22,0,0,Financials
+TEK,ASX:ITEK,iShares Future Tech Innovators ETF (ASX:ITEK),https://www.listcorp.com/asx/itek/ishares-future-tech-innovators-etf,5301500,29.45,0,0,Unclassified
+EFE,ASX:EFE,Eastern Resources Limited (ASX:EFE),https://www.listcorp.com/asx/efe/eastern-resources-limited,5295780,0.042,0,0,Materials
+PR1,ASX:PR1,Pure Resources Limited (ASX:PR1),https://www.listcorp.com/asx/pr1/pure-resources-limited,5291010,0.14,0,0,Materials
+EVE,ASX:EVE,Eve Health Group Limited (ASX:EVE),https://www.listcorp.com/asx/eve/eve-health-group-limited,5274480,0.001,0,0,Consumer Staples
+PPG,ASX:PPG,Pro-Pac Packaging Limited (ASX:PPG),https://www.listcorp.com/asx/ppg/pro-pac-packaging-limited,5268940,0.029,0,0,Materials
+JHI,ASX:HJHI,Hejaz High Income Active ETF (ASX:HJHI),https://www.listcorp.com/asx/hjhi/hejaz-high-income-active-etf,5218030,0.975,0,0,Unclassified
+KTA,ASX:KTA,Krakatoa Resources Limited (ASX:KTA),https://www.listcorp.com/asx/kta/krakatoa-resources-limited,5193180,0.011,0,0,Materials
+HPC,ASX:HPC,The Hydration Pharmaceuticals Company Limited (ASX:HPC),https://www.listcorp.com/asx/hpc/the-hyrdation-pharmaceuticals-company-limited,5183520,0.017,0,0,Consumer Staples
+ERW,ASX:ERW,Errawarra Resources Ltd (ASX:ERW),https://www.listcorp.com/asx/erw/errawarra-resources-ltd,5179720,0.054,0,0,Materials
+ENX,ASX:ENX,Enegex Limited (ASX:ENX),https://www.listcorp.com/asx/enx/enegex-limited,5164820,0.014,0,0,Materials
+FFF,ASX:FFF,Forbidden Foods Limited (ASX:FFF),https://www.listcorp.com/asx/fff/forbidden-foods-limited,5150010,0.009,0,0,Consumer Staples
+CE1,ASX:CE1,Calima Energy Limited (ASX:CE1),https://www.listcorp.com/asx/ce1/calima-energy-limited,5149450,0.009,0,0,Energy
+DES,ASX:DES,Desoto Resources Limited (ASX:DES),https://www.listcorp.com/asx/des/desoto-resources-limited,5148560,0.075,0,0,Materials
+IEQ,ASX:IEQ,International Equities Corporation Ltd (ASX:IEQ),https://www.listcorp.com/asx/ieq/international-equities-corporation,5128940,0.04,0,0,Real Estate
+RLL,ASX:RLL,Rapid Lithium Limited (ASX:RLL),https://www.listcorp.com/asx/rll/rapid-lithium-limited,5124780,0.007,0,0,Materials
+HFY,ASX:HFY,Hubify Limited (ASX:HFY),https://www.listcorp.com/asx/hfy/hubify-limited,5111360,0.01,0,0,Communication Services
+BUS,ASX:BUS,Bubalus Resources Limited (ASX:BUS),https://www.listcorp.com/asx/bus/bubalus-resources-limited,5091000,0.14,0,0,Materials
+OZZ,ASX:OZZ,OZZ Resources Limited (ASX:OZZ),https://www.listcorp.com/asx/ozz/ozz-resources-limited,5089160,0.055,0,0,Materials
+XPN,ASX:XPN,XPON Technologies Group Limited (ASX:XPN),https://www.listcorp.com/asx/xpn/xpon-technologies-group-limited,5074180,0.014,0,0,Information Technology
+GRL,ASX:GRL,Godolphin Resources Limited (ASX:GRL),https://www.listcorp.com/asx/grl/godolphin-resources-limited,5059380,0.016,0,0,Materials
+ADS,ASX:ADS,Adslot Limited (ASX:ADS),https://www.listcorp.com/asx/ads/adslot,5042620,0.001,0,0,Information Technology
+GLL,ASX:GLL,Galilee Energy Limited (ASX:GLL),https://www.listcorp.com/asx/gll/galilee-energy-limited,5014740,0.009,0,0,Energy
+KNM,ASX:KNM,Kneomedia Limited (ASX:KNM),https://www.listcorp.com/asx/knm/kneomedia-limited,4975720,0.001841,0,0,Communication Services
+DAL,ASX:DAL,Dalaroo Metals Ltd (ASX:DAL),https://www.listcorp.com/asx/dal/dalaroo-metals-ltd,4967500,0.02,0,0,Materials
+OPL,ASX:OPL,Opyl Limited (ASX:OPL),https://www.listcorp.com/asx/opl/opyl-limited,4950720,0.029,0,0,Information Technology
+BPM,ASX:BPM,BPM Minerals Limited (ASX:BPM),https://www.listcorp.com/asx/bpm/bpm-minerals-limited,4948460,0.059,0,0,Materials
+M8S,ASX:M8S,M8 Sustainable Limited (ASX:M8S),https://www.listcorp.com/asx/m8s/m8-sustainable-limited,4937740,0.009,0,0,Industrials
+OZM,ASX:OZM,OzAurum Resources Limited (ASX:OZM),https://www.listcorp.com/asx/ozm/ozaurum-resources-limited,4921250,0.031,0,0,Materials
+NSB,ASX:NSB,Neuroscientific Biopharmaceuticals Limited (ASX:NSB),https://www.listcorp.com/asx/nsb/neuroscientific-biopharmaceuticals-limited,4916570,0.034,0,0,Health Care
+JNO,ASX:JNO,Juno Minerals Limited (ASX:JNO),https://www.listcorp.com/asx/jno/juno-minerals-limited,4912520,0.027,0,0,Materials
+TMZ,ASX:TMZ,Thomson Resources Ltd (ASX:TMZ),https://www.listcorp.com/asx/tmz/thomson-resources,4881020,0.005,0,0,Materials
+EEL,ASX:EEL,ENRG Elements Limited (ASX:EEL),https://www.listcorp.com/asx/eel/enrg-elements-limited,4879570,0.0015,0,0,Materials
+R8R,ASX:R8R,Regener8 Resources NL (ASX:R8R),https://www.listcorp.com/asx/r8r/regener8-resources-nl,4875380,0.15,0,0,Materials
